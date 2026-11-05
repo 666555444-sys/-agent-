@@ -1,0 +1,15 @@
+# 环境变量（含密钥）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志
+*.log
+
+# 虚拟环境
+.venv/
+
+# 系统文件
+.DS_Store
